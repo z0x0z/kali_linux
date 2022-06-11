@@ -1,4 +1,4 @@
-# Kali Linux custom setup for pentesting
+# Kali Linux custom setup for Penetration testing
 This Kali Linux Docker image is my customized pen-testing setup. This image includes all the required tools for penetration testing. I have installed kali-linux-headless metapackage along with my favorite tools installed on top of the latest version of the Kali Linux Rolling Distribution. For details about,
 
 Kali Linux docker, check https://www.kali.org/news/official-kali-linux-docker-images/
